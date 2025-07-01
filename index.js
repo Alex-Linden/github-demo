@@ -1,4 +1,6 @@
-function WWWWWWWWWConflict() {
+function helloWorld() {
+WWConflict() {
+
   console.log('hello world');
 }
 
