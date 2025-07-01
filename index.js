@@ -1,4 +1,4 @@
-function hello() {
+function WWWWWWWWWConflict() {
   console.log('hello world');
 }
 
